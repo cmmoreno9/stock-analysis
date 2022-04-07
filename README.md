@@ -1,4 +1,4 @@
-# Writen Analysis of Results
+# Written Analysis of Results
 
 ## **1) Overview of Project**
   The purpose of the analysis was to edit (refactor) the code used in the module in hopes of a faster execution time. In the future, Steve would like to include the entire stock market, and the original code would not be as effective and would take a longer time to evaluate. The refactored and original code evaluated 12 different tickers, total daily volume, and return rate dependent on the year. 
